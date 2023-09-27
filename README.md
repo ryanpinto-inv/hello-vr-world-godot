@@ -1,6 +1,4 @@
-# hello-vr-world-godot
-
-# Godot XR Tools demo
+# Hello VR World Demo using Godot XR Tools
 
 This is a Godot demo project in support of my [Godot XR Tools tutorial](https://youtube.com/playlist?list=PLe63S5Eft1KYUzXU_h4tCAyIeRCL90QgF) series.
 
